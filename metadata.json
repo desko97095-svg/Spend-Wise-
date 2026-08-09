@@ -1,0 +1,8 @@
+{
+  "name": "SpendWise - Dark Expense Tracker",
+  "description": "A sleek, dark-themed expense tracking application with automated AI monthly budgeting reports, multi-currency support, localization, Google/Apple OAuth, and responsive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
